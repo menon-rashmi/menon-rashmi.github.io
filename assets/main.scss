@@ -68,6 +68,17 @@ a {
   border: 6px solid transparent;
 }
 
+h1 {
+  position: relative;
+  left: 20px;
+}
+
+.subtitle {
+  position: relative;
+  left: 20px;
+}
+
+
 /* Right column */
 .right-column {
   flex: 1;
