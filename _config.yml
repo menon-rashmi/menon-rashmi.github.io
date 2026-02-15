@@ -1,2 +1,10 @@
 title: Your Name
 theme: jekyll-theme-minimal
+
+nav:
+  - name: About
+    link: /
+  - name: Resume
+    link: /resume.html
+  - name: Email
+    link: /contact.html
