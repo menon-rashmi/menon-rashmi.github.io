@@ -22,7 +22,7 @@ title: About
 
 # Your Name
 
-Write your ~200 word bio here. Talk about what you do, what you study/work on, your interests, and your goals. This text will appear to the right of your photo, just like the Joshimridul layout.
+Write your ~200 word bio here. Talk about what you do, what you study/work on, your interests, and your goals. 
 
 </div>
 
