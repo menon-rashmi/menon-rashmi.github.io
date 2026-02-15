@@ -1,10 +1,6 @@
-title: naME
+title: Rashmi Menon
 description: Personal website
 theme: minima
 
 header_pages:
   - index.md
-
-nav_links:
-  Resume: /resume.pdf
-  Email: mailto:yourname@email.com
