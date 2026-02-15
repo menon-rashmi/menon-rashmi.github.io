@@ -21,8 +21,6 @@ Washington, D.C.
 
 <div class="right-column">
 
-<p>Hello</p>
-
-<p>[My bio here.]</p>
+<p>Hello! [My bio here.] </p>
 
 You can see my resume <a href="/resume.pdf">here</a>.
