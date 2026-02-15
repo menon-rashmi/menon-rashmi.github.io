@@ -20,9 +20,9 @@ New Delhi, India
 
 <h1>Rashmi Menon</h1>
 
-<h2>Hello</h2>
+Hello!
 
-Write your bio here.
+My bio here.
 
 You can see my [resume here](/resume.pdf).
 
