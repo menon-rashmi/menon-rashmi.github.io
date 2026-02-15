@@ -9,7 +9,6 @@ title:
 
 <h1>Rashmi Menon</h1>
 
-<br><br>
 
 <img src="/profile.jpg" class="profile-photo">
 
