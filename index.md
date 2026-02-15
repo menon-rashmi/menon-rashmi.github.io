@@ -1,58 +1,49 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
-<div style="display:flex; align-items:flex-start; gap:30px;">
+<div style="display:flex; gap:40px; align-items:flex-start;">
 
-<div style="width:260px;">
-
-<img src="photo.jpg" style="width:220px; height:220px; border-radius:50%; object-fit:cover;">
-
+<div style="flex:1;">
+<img src="profile.jpg" alt="Profile photo" style="width:220px; border-radius:6px;">
 <br><br>
 
-<div style="display:flex; align-items:center; gap:8px;">
-  <img src="location.png" width="18">
-  <span>Your City, Country</span>
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="16">
+New Delhi, India
+</div>
+
+<div style="flex:3;">
+
+## Hello!
+
+I am a [Your role/title]. Write about 200 words about yourself here. 
+You can talk about your background, your current work or studies, your interests, and what you are passionate about.
+
+<br>
+
+<div style="display:flex; gap:40px;">
+
+<div style="flex:1;">
+
+### Education
+- Degree, University, Year  
+- Previous Degree, University  
+- Any important achievement  
+
+</div>
+
+<div style="flex:1;">
+
+### Interests
+- Research interests  
+- Coding / AI / Data  
+- Reading, music, sports  
+- Anything personal  
+
 </div>
 
 </div>
 
-<div>
-
-# Your Name
-
-Write your ~200 word bio here. Talk about what you do, what you study/work on, your interests, and your goals. 
-
 </div>
-
-</div>
-
-<hr>
-
-<div style="display:flex; gap:60px;">
-
-<div style="width:50%;">
-
-## Education
-
-**Degree Name**  
-University Name, Year  
-
-**Previous Degree**  
-Fergusson College
-
-</div>
-
-<div style="width:50%;">
-
-## Interests
-
-- Interest 1  
-- Interest 2  
-- Interest 3  
-- Interest 4  
-
-</div>
-
 </div>
