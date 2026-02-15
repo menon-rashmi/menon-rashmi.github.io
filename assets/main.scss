@@ -20,9 +20,15 @@ body {
 }
 
 /* Mustard headers */
-h1, h2, h3, h4 {
+h1, h3, h4 {
   color: #d4a017;
   font-weight: 700;
+}
+
+/* Hello header */
+h2 {
+  color: #4a4a4a;
+  font-weight: 500;
 }
 
 /* Navigation */
