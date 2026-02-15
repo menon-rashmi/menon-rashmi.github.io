@@ -24,7 +24,7 @@ Hello!
 
 My bio here.
 
-You can see my [resume here](/resume.pdf).
+You can see my [resume here](resume.pdf).
 
 <div class="two-columns">
 
