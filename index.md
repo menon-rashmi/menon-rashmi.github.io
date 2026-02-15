@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rashmi Menon
+title: N/A
 ---
 
 <div class="about-container">
