@@ -13,10 +13,8 @@ title:
 
 <h1>Rashmi Menon</h1>
 
-<br><br>
-
 <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
-New Delhi, India
+Washington, D.C.
 
 </div>
 
