@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Contact
+layout: page
+title: Email
 ---
 
-# Contact
+Feel free to reach out:
 
-📧 Email me at:  
-[yourname@email.com](mailto:yourname@email.com)
+📧 [yourname@email.com](mailto:yourname@email.com)
