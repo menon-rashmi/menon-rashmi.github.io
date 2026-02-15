@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "minima";
+
+/* ===== Colors ===== */
 body {
   background-color: #fffdf7;
   color: #4a4a4a;
@@ -20,7 +23,7 @@ h1, h2, h3, h4 {
   color: #d4a017 !important;
 }
 
-.site-nav a {
+.site-nav .page-link {
   color: #d4a017 !important;
   font-weight: 600;
 }
@@ -33,31 +36,4 @@ a {
 /* Profile photo */
 .profile-photo {
   width: 260px;
-  border: 6px solid #d4a017;
-  border-radius: 6px;
-}
-
-/* Layout */
-.about-container {
-  display: flex;
-  gap: 50px;
-  align-items: flex-start;
-}
-
-.left-column {
-  width: 280px;
-}
-
-.right-column {
-  flex: 1;
-}
-
-.two-columns {
-  display: flex;
-  gap: 60px;
-  margin-top: 20px;
-}
-
-.two-columns div {
-  flex: 1;
-}
+  border: 6px solid #d4a
