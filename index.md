@@ -7,7 +7,7 @@ title: About
 
 <div class="left-column">
 
-<img src="profile.jpg" class="profile-photo">
+<img src="/profile.jpg" class="profile-photo">
 
 <br><br>
 
@@ -20,7 +20,7 @@ New Delhi, India
 
 ## Hello
 
-Write your bio here. Talk about your background, current work, and interests.
+Write your bio here.
 
 You can see my [resume here](/resume.pdf).
 
@@ -30,8 +30,8 @@ You can see my [resume here](/resume.pdf).
 
 ### Education
 - Degree, University, Year  
-- Previous Degree, University  
-- Any achievement  
+- Previous Degree  
+- Achievement  
 
 </div>
 
@@ -39,8 +39,8 @@ You can see my [resume here](/resume.pdf).
 
 ### Interests
 - Public policy  
-- Data and research  
-- Reading, travel, music  
+- Data & research  
+- Reading, travel  
 
 </div>
 
