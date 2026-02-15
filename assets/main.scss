@@ -77,3 +77,8 @@ a {
 .two-columns div {
   flex: 1;
 }
+
+/* Hide default page title (left side) */
+.page-heading {
+  display: none;
+}
