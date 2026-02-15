@@ -3,43 +3,44 @@ layout: page
 title: About
 ---
 
-<div style="display:flex; gap:40px; align-items:flex-start;">
+<div class="about-container">
 
-<div style="flex:1;">
-<img src="profile.jpg" alt="Profile photo" style="width:220px; border-radius:6px;">
+<div class="left-column">
+
+<img src="profile.jpg" class="profile-photo">
+
 <br><br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="16">
-New Delhi, India
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
+Washington, D.C.
+
 </div>
 
-<div style="flex:3;">
+<div class="right-column">
 
-## Hello!
+**Hello!**
 
-I am a [Your role/title]. Write about 200 words about yourself here. 
-You can talk about your background, your current work or studies, your interests, and what you are passionate about.
+Bio here.
 
 <br>
 
-<div style="display:flex; gap:40px;">
+<div class="two-columns">
 
-<div style="flex:1;">
+<div>
 
-### Education
+**Education**
 - Degree, University, Year  
-- Previous Degree, University  
-- Any important achievement  
+- Previous Degree  
+- Any achievements  
 
 </div>
 
-<div style="flex:1;">
+<div>
 
-### Interests
+**Interests**
 - Research interests  
-- Coding / AI / Data  
-- Reading, music, sports  
-- Anything personal  
+-  Data / Policy  
+- Reading / Travel / Music  
 
 </div>
 
