@@ -1,9 +1,24 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$brand-color: #d4a017;   // mustard
+$link-color: #b8860b;
+$background-color: #fffdf5;
 
-/* Hide GitHub profile link */
-a[href*="github.com"] {
-  display: none;
+body {
+  background-color: $background-color;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+a {
+  color: $link-color;
+}
+
+.site-header {
+  border-bottom: 2px solid #d4a017;
+}
+
+.site-title {
+  color: #d4a017;
+  font-weight: bold;
 }
