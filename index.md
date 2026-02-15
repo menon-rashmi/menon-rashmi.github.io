@@ -24,3 +24,24 @@ Washington, D.C.
 <p>Hello! [My bio here.] </p>
 
 You can see my resume <a href="/resume.pdf">here</a>.
+
+<div class="two-columns">
+  <div class="column">
+    <b>Education</b>
+    <ul>
+      <li>Your degree, University, Year</li>
+      <li>Previous degree, School, Year</li>
+      <li>Any certifications or honors</li>
+    </ul>
+  </div>
+
+  <div class="column">
+    <b>Interests</b>
+    <ul>
+      <li>Research interests</li>
+      <li>Technical interests</li>
+      <li>Hobbies or extracurriculars</li>
+    </ul>
+  </div>
+</div>
+
