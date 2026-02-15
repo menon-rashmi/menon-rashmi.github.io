@@ -1,32 +1,63 @@
 ---
 ---
 
-/* ===== Color Palette ===== */
-$mustard: #d4a017;
-$text-color: #4a4a4a;   /* dark grey */
-$background: #fffdf7;
-
-/* ===== Base ===== */
 body {
-  background-color: $background;
-  color: $text-color;
+  background-color: #fffdf7;
+  color: #4a4a4a;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.7;
   font-size: 17px;
 }
 
-/* ===== Headers ===== */
+/* Mustard headers */
 h1, h2, h3, h4 {
-  color: $mustard;
+  color: #d4a017;
   font-weight: 700;
-  margin-top: 25px;
 }
 
-/* ===== Navigation Tabs ===== */
+/* Navigation tabs */
 .site-title {
-  color: $mustard !important;
-  font-weight: bold;
+  color: #d4a017 !important;
 }
 
 .site-nav a {
-  color:
+  color: #d4a017 !important;
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #d4a017;
+}
+
+/* Profile photo */
+.profile-photo {
+  width: 260px;
+  border: 6px solid #d4a017;
+  border-radius: 6px;
+}
+
+/* Layout */
+.about-container {
+  display: flex;
+  gap: 50px;
+  align-items: flex-start;
+}
+
+.left-column {
+  width: 280px;
+}
+
+.right-column {
+  flex: 1;
+}
+
+.two-columns {
+  display: flex;
+  gap: 60px;
+  margin-top: 20px;
+}
+
+.two-columns div {
+  flex: 1;
+}
