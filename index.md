@@ -1,45 +1,29 @@
-<div class="top-section">
+---
+layout: page
+title: 
+---
 
-  <img src="/profile.jpg" alt="Rashmi Menon" class="profile-photo">
+<div class="about-container">
 
-  <h1 class="name">Rashmi Menon</h1>
+<div class="left-column">
 
-  <p class="location">📍 Delhi, India</p>
+<h1>Rashmi Menon</h1>
 
-  <p>Hello</p>
+<br><br>
 
-  <p>[Your short bio goes here.]</p>
+<img src="/profile.jpg" class="profile-photo">
 
-  <p>You can see my <a href="/resume.pdf" target="_blank">resume here</a>.</p>
+<br><br>
 
-</div>
-
-<div class="two-columns">
-
-<div>
-
-<h3>Education</h3>
-<ul>
-  <li>Degree, University, Year</li>
-  <li>Previous Degree</li>
-</ul>
-
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
+Washington, D.C.
 
 </div>
 
-<div>
+<div class="right-column">
 
-<h3>Interests</h3>
-<ul>
-  <li>Public policy</li>
-  <li>Data and research</li>
-  <li>Reading, travel</li>
-</ul>
+<p>Hello</p>
 
+<p>[My bio here.]</p>
 
-</div>
-
-</div>
-
-</div>
-</div>
+You can see my resume <a href="/resume.pdf">here</a>.
