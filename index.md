@@ -1,33 +1,58 @@
 ---
 layout: default
-title: Home
+title: About
 ---
+
+<div style="display:flex; align-items:flex-start; gap:30px;">
+
+<div style="width:260px;">
+
+<img src="photo.jpg" style="width:220px; height:220px; border-radius:50%; object-fit:cover;">
+
+<br><br>
+
+<div style="display:flex; align-items:center; gap:8px;">
+  <img src="location.png" width="18">
+  <span>Your City, Country</span>
+</div>
+
+</div>
+
+<div>
 
 # Your Name
 
-<img src="profile.jpg" width="200" style="float:left; margin-right:20px; border-radius:8px;">
+Write your ~200 word bio here. Talk about what you do, what you study/work on, your interests, and your goals. This text will appear to the right of your photo, just like the Joshimridul layout.
 
-Hello! I am [Your Name].  
-I am a [your role/student/profession].  
-Write your 200-word description here. Talk about your work, interests, goals, and what you are passionate about.
+</div>
 
-📍 Your City, Country  
+</div>
 
-<br clear="left"/>
+<hr>
 
----
+<div style="display:flex; gap:60px;">
+
+<div style="width:50%;">
+
+## Education
+
+**Degree Name**  
+University Name, Year  
+
+**Previous Degree**  
+Institution, Year  
+
+</div>
+
+<div style="width:50%;">
 
 ## Interests
+
 - Interest 1  
 - Interest 2  
 - Interest 3  
 - Interest 4  
 
----
+</div>
 
-## Education
-**Your Degree**  
-University Name, Year  
-
-**Previous Degree**  
-School/College, Year
+</div>
