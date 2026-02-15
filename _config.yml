@@ -1,5 +1,6 @@
 title: Your Name
-theme: jekyll-theme-minimal
+description: Personal website
+theme: minima
 
 header_pages:
   - index.md
