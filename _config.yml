@@ -4,5 +4,7 @@ theme: minima
 
 header_pages:
   - index.md
-  - resume.md
-  - contact.md
+
+nav_links:
+  Resume: /resume.pdf
+  Email: mailto:yourname@email.com
