@@ -22,7 +22,7 @@ Washington, D.C.
 
 Hello!
 
-My bio here.
+[My bio here.]
 
 You can see my resume <a href="/resume.pdf">here</a>.
 
