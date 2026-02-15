@@ -27,7 +27,7 @@ You can see my resume <a href="/resume.pdf">here</a>.
 
 <div class="two-columns">
   <div class="column">
-    <h3>Education</h3>
+    <h4>Education</h4>
     <ul>
       <li>Your degree, University, Year</li>
       <li>Previous degree, School, Year</li>
