@@ -18,6 +18,8 @@ New Delhi, India
 
 <div class="right-column">
 
+<h1>Rashmi Menon</h1>
+
 ## Hello
 
 Write your bio here.
