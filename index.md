@@ -20,7 +20,7 @@ New Delhi, India
 
 <h1>Rashmi Menon</h1>
 
-## Hello
+<h2>Hello</h2>
 
 Write your bio here.
 
@@ -30,19 +30,24 @@ You can see my [resume here](/resume.pdf).
 
 <div>
 
-### Education
-- Degree, University, Year  
-- Previous Degree  
-- Achievement  
+<h3>Education</h3>
+<ul>
+  <li>Degree, University, Year</li>
+  <li>Previous Degree</li>
+</ul>
+
 
 </div>
 
 <div>
 
-### Interests
-- Public policy  
-- Data & research  
-- Reading, travel  
+<h3>Interests</h3>
+<ul>
+  <li>Public policy</li>
+  <li>Data and research</li>
+  <li>Reading, travel</li>
+</ul>
+
 
 </div>
 
