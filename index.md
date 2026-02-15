@@ -40,7 +40,7 @@ Write your ~200 word bio here. Talk about what you do, what you study/work on, y
 University Name, Year  
 
 **Previous Degree**  
-Institution, Year  
+Fergusson College
 
 </div>
 
