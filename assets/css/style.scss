@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide GitHub profile link */
+a[href*="github.com"] {
+  display: none;
+}
