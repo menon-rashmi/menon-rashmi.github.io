@@ -1,24 +1,32 @@
 ---
 ---
 
-$brand-color: #d4a017;   // mustard
-$link-color: #b8860b;
-$background-color: #fffdf5;
+/* ===== Color Palette ===== */
+$mustard: #d4a017;
+$text-color: #4a4a4a;   /* dark grey */
+$background: #fffdf7;
 
+/* ===== Base ===== */
 body {
-  background-color: $background-color;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: $background;
+  color: $text-color;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.7;
+  font-size: 17px;
 }
 
-a {
-  color: $link-color;
+/* ===== Headers ===== */
+h1, h2, h3, h4 {
+  color: $mustard;
+  font-weight: 700;
+  margin-top: 25px;
 }
 
-.site-header {
-  border-bottom: 2px solid #d4a017;
-}
-
+/* ===== Navigation Tabs ===== */
 .site-title {
-  color: #d4a017;
+  color: $mustard !important;
   font-weight: bold;
 }
+
+.site-nav a {
+  color:
