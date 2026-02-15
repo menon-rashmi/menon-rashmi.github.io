@@ -1,6 +1,6 @@
 ---
 layout: page
-title: N/A
+title: About
 ---
 
 <div class="about-container">
@@ -12,35 +12,35 @@ title: N/A
 <br><br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
-Washington, D.C.
+New Delhi, India
 
 </div>
 
 <div class="right-column">
 
-**Hello!**
+## Hello
 
-Bio here.
+Write your bio here. Talk about your background, current work, and interests.
 
-<br>
+You can see my [resume here](/resume.pdf).
 
 <div class="two-columns">
 
 <div>
 
-**Education**
+### Education
 - Degree, University, Year  
-- Previous Degree  
-- Any achievements  
+- Previous Degree, University  
+- Any achievement  
 
 </div>
 
 <div>
 
-**Interests**
-- Research interests  
--  Data / Policy  
-- Reading / Travel / Music  
+### Interests
+- Public policy  
+- Data and research  
+- Reading, travel, music  
 
 </div>
 
