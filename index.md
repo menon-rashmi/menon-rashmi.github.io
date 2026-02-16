@@ -31,11 +31,11 @@ Feel free to reach out to me at rashmi.tmenon@gmail.com to chat!
 
     <h4>Education</h4>
     <ul>
-      <li>Master in Public Administration in International Development (MPA/ID), 2022
+      <li>Master in Public Administration in International Development (MPA/ID), 2022          
 Harvard Kennedy School</li>
       <li>Bachelor of Arts in Economics with Industrial Mathematics and Applied Statistics, 2012
 Fergusson College</li>
     </ul>
-  </div>
+
 
 
