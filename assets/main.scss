@@ -100,5 +100,18 @@ h1 {
   display: none;
 }
 
+a {
+  color: #0066cc;
+}
+
+a:visited {
+  color: #0066cc;
+}
+
+a[href^="mailto"] {
+  color: #0066cc;
+}
+
+
 
 
