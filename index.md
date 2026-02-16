@@ -29,24 +29,13 @@ Washington, D.C.
 
 Feel free to reach out to me at rashmi.tmenon@gmail.com to chat! 
 
-<div class="two-columns">
-  <div class="column">
     <h4>Education</h4>
     <ul>
       <li>Master in Public Administration in International Development (MPA/ID), 2022
 Harvard Kennedy School</li>
-      <li>Previous degree, School, Year</li>
-      <li>Any certifications or honors</li>
+      <li>Bachelor of Arts in Economics with Industrial Mathematics and Applied Statistics, 2012
+Fergusson College</li>
     </ul>
   </div>
 
-  <div class="column">
-    <h4>Interests</h4>
-    <ul>
-      <li>Research interests</li>
-      <li>Technical interests</li>
-      <li>Hobbies or extracurriculars</li>
-    </ul>
-  </div>
-</div>
 
