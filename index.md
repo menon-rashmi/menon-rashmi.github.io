@@ -21,9 +21,13 @@ Washington, D.C.
 
 <div class="right-column">
 
-<p>Hello! [My bio here.] </p>
+<p>Hello! I am currently a Senior Program Manager at CRI Foundation, embedded in the DIV Fund, where I help identify and fund impactful and cost-effective programs as well as provide technical advice to DIV applicants to improve intervention and research designs.  </p>
 
-You can see my resume <a href="/resume.pdf">here</a>.
+<p> I particularly enjoy bridging rigorous research and practical implementation. My MPA/ID degree equipped me with the analytical skills to design cost-effective development programs, while my work experiences taught me to design and manage large-scale (and very often messy!) field research projects on the ground, working hand-in-hand with implementation partners and government leaders. <p>
+
+<p>I began my career at Teach For India where I taught children in grades 5 and 6, an experience that has been foundational to  informed and inspired my work. Over the past decade, I’ve gained unique insights from my experiences across South Asia and sub-Saharan Africa serving as a public school teacher, as a field RA managing data collection and on-ground realities and as a manager overseeing the design, implementation and dissemination of research studies at J-PAL and Evidence Action, and as a program advisor working to scale-up high-impact interventions. You can see my resume <a href="/resume.pdf">here</a>.
+
+Feel free to reach out to me at rashmi.tmenon@gmail.com to chat! 
 
 <div class="two-columns">
   <div class="column">
