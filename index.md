@@ -33,7 +33,8 @@ Feel free to reach out to me at rashmi.tmenon@gmail.com to chat!
   <div class="column">
     <h4>Education</h4>
     <ul>
-      <li>Your degree, University, Year</li>
+      <li>Master in Public Administration in International Development (MPA/ID), 2022
+Harvard Kennedy School</li>
       <li>Previous degree, School, Year</li>
       <li>Any certifications or honors</li>
     </ul>
