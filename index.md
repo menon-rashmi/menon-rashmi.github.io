@@ -29,7 +29,7 @@ Washington, D.C.
     
 <p>You can see my resume <a href="/resume.pdf">here</a>. <p>
 
-<p> Feel free to reach out to me at rashmi.tmenon@gmail.com to chat! <p>
+<p> Feel free to reach out to me at <a href="mailto:rashmi.menon@email.com">rashmi.menon@email.com to chat! <p>
 
     <h4>Education</h4>
     <ul>
