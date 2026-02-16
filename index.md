@@ -25,7 +25,7 @@ Washington, D.C., USA
 
 <p> I particularly enjoy bridging rigorous research and practical implementation. My MPA/ID degree built my analytical abilities to design cost-effective programs, while my work experiences taught me to manage large-scale (and messy!) projects on the ground.  </p>
 
-<p> I began my career at Teach For India where I taught children in grades 6 and 7, an experience that has informed and inspired my work to date. Over the past decade, I’ve worked across South Asia and sub-Saharan Africa as a public school teacher, as a research analyst managing  field projects from design, to data collection to analysis, and now as a program advisor supporting the scale-up of high-impact interventions.  <p>
+<p> I began my career at Teach For India where I taught children in grades 6 and 7, an experience that has informed and inspired my work to date. Over the past decade, I’ve worked across South Asia and sub-Saharan Africa as a public school teacher, as a research analyst managing  field projects from design to data collection to analysis, and now as a program advisor supporting the scale-up of high-impact interventions.  <p>
     
 <p>You can see my resume <a href="/resume.pdf">here</a>. <p>
 
