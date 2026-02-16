@@ -29,11 +29,13 @@ Washington, D.C.
     
 <p>You can see my resume <a href="/resume.pdf">here</a>. <p>
 
+If you want to find me outside of work, I can usually be found climbing on mountaintops or diving underwater, or offering armchair analyses of football (the real kind) and tennis.
+
 <p> Feel free to reach out to me at <a href="mailto:rashmi.menon@email.com">rashmi.menon@email.com </a> to chat! <p>
 
     <h4>Education</h4>
     <ul>
-      <li>Master in Public Administration in International Development (MPA/ID), 2022          
+      <li>Master in Public Administration in International Development (MPA/ID), 2022 <br>         
 Harvard Kennedy School</li>
       <li>Bachelor of Arts in Economics with Industrial Mathematics and Applied Statistics, 2012
 Fergusson College</li>
