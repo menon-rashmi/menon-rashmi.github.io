@@ -29,8 +29,6 @@ Washington, D.C., USA
     
 <p>You can see my resume <a href="/resume.pdf">here</a>. <p>
 
-If you want to find me outside of work, I can usually be found climbing on mountaintops or diving underwater, or offering armchair analyses of football (the real kind) and tennis.
-
 <p> Feel free to reach out to me at <a href="mailto:rashmi.tmenon@gmail.com">rashmi.tmenon@gmail.com </a> to chat! <p>
 
     <h4>Education</h4>
