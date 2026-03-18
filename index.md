@@ -7,8 +7,6 @@ title:
 
 <div class="left-column">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <h1>Rashmi Menon</h1>
 
 <img src="/profile.jpg" class="profile-photo">
