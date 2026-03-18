@@ -134,6 +134,10 @@ a[href^="mailto"] {
     width: 200px;
     height: 200px;
   }
+
+  h1, .subtitle {
+    position: static;
+  }
 }
 
 img {
