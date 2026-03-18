@@ -115,34 +115,40 @@ a[href^="mailto"] {
 }
 
 @media (max-width: 768px) {
+  /* Stack the about section vertically */
   .about-container {
     flex-direction: column;
     gap: 20px;
   }
 
+  /* Stack education/interests vertically */
   .two-columns {
     flex-direction: column;
     gap: 20px;
   }
 
+  /* Make left column full width */
   .left-column {
     flex: 0 0 auto;
     width: 100%;
+    text-align: center; /* center photo/text */
   }
 
+  /* Make profile photo smaller and centered */
   .profile-photo {
     width: 200px;
     height: 200px;
+    margin: 0 auto;
   }
 
- h1, .subtitle {
-  left: 0;
-}
-}
+  /* Reset the text shift ONLY on mobile */
+  h1 {
+    left: 0;
+  }
 
-img {
-  max-width: 100%;
-  height: auto;
+  .subtitle {
+    left: 0;
+  }
 }
 
 
