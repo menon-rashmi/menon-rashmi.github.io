@@ -114,8 +114,24 @@ a[href^="mailto"] {
 }
 
 @media (max-width: 768px) {
-  .container {
+  .about-container {
     flex-direction: column;
+    gap: 20px;
+  }
+
+  .two-columns {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .left-column {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+  .profile-photo {
+    width: 200px;
+    height: 200px;
   }
 }
 
