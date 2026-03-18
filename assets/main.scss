@@ -1,9 +1,12 @@
+
+---
+---
+
 @import "minima";
 
 /* ===== Container width (removes big left margin) ===== */
 .wrapper {
-  max-width: 800px;
-  width: 100%;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -52,9 +55,9 @@ a {
   margin-top: 30px;
 }
 
-/* Left column - desktop defaults */
+/* Left column */
 .left-column {
-  flex: 0 0 340px; /* fixes desktop width */
+  flex: 0 0 340px;
 }
 
 /* Circular photo */
@@ -76,6 +79,7 @@ h1 {
   left: 10px;
 }
 
+
 /* Right column */
 .right-column {
   flex: 1;
@@ -92,7 +96,7 @@ h1 {
   flex: 1;
 }
 
-/* Footer */
+
 .site-footer .site-title {
   display: none;
 }
@@ -109,40 +113,5 @@ a[href^="mailto"] {
   color: #0066cc;
 }
 
-/* ===== Mobile Styles ===== */
-@media (max-width: 768px) {
-  /* Stack the about section vertically */
-  .about-container {
-    flex-direction: column;
-    gap: 20px;
-  }
 
-  /* Stack education/interests vertically */
-  .two-columns {
-    flex-direction: column;
-    gap: 20px;
-  }
 
-  /* Make left column full width on mobile only */
-  .left-column {
-    flex: 0 0 auto;
-    width: 100%;
-    text-align: center; /* center photo/text */
-  }
-
-  /* Make profile photo smaller and centered */
-  .profile-photo {
-    width: 200px;
-    height: 200px;
-    margin: 0 auto;
-  }
-
-  /* Reset the text shift only on mobile */
-  h1 {
-    left: 0;
-  }
-
-  .subtitle {
-    left: 0;
-  }
-}
