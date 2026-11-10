@@ -14,7 +14,7 @@ title:
 <br><br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
-   Delhi, India
+Delhi, India
 
 </div>
 
@@ -32,7 +32,7 @@ title:
 
 <h4>Current Interests</h4>
 
-<p> I've recently been exploring the evolving needs of secondary education, particularly how to equip children in low- and middle-income countries with the critical reasoning skills necessary to navigate an AI-enabled world. I’m interested in both the changing demands of the workforce where these skills are increasingly important as well as the broader societal need for informed citizens who can question claims, evaluate evidence, and form independent judgments. </p>
+<p> I've recently been exploring the evolving needs of secondary education, particularly how to equip children in low- and middle-income countries with the critical reasoning skills necessary to navigate an AI-enabled world. I’m interested in both the changing demands of the workforce, where these skills are increasingly important, as well as the broader societal need for informed citizens who can question claims, evaluate evidence, and form independent judgments. </p>
 
 <p> I'm also interested in how global philanthropic funding can better identify and support local innovation. My experiences in global philanthropy have pushed me to think about how smaller, high-potential organizations can access such funding, as well as how donors can discover, evaluate and support a wider range of locally grounded interventions. </p>
 
