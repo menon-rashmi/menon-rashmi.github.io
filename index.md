@@ -13,9 +13,9 @@ title:
 
 <br><br>
 
-<div style="margin-left: 10px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18">
-  Delhi, India
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18" style="margin-left: 10px;">
+Delhi, India
+
 </div>
 
 
